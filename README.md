@@ -7,17 +7,12 @@ Using the power of machine learning and NLP to disrupt finance and improve the c
 ## Instructions on how to use 
 
 ### 1. Build and Deploy Lambda function on AWS Lambda
-### 2. Build Roboadvisor Bot on Amazon Lex (using V1 Console) 
+### 2. Configure and build Roboadvisor Bot on Amazon Lex (using V1 Console) 
 ### 3. Create new intent, fill in slots, sample utterances and fulfillment with Lambda function
 ### 4. Build Bot
 ### 5. Test Bot
 
 ##
-
-* Configure the initial robo advisor
-* Build and test the robo advisor
-* Enhance the robo advisor with an Amazon Lambda function
-  * Create an Amazon Lambda function that validates the user's input and returns the investment portfolio recommendation. This includes testing the Amazon Lambda function and integrating it with the bot.
 
 ## Initiate the bot
  ![1_initiate_the_bot](https://github.com/Chrisdeleon91/Module-15-Roboadvisors-Challenge/assets/22796940/32a6726e-6723-4c65-b31c-324f7ae45df2)
